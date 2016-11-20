@@ -8,7 +8,6 @@ redis = Redis(host="redis", db=0)
 
 app = Flask(__name__)
 
-
 @app.route("/")
 def hello():
     try:
