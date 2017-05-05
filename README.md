@@ -2,7 +2,7 @@
 
 [![Deploy to Docker Cloud](https://files.cloud.docker.com/images/deploy-to-dockercloud.svg)](https://cloud.docker.com/stack/deploy/)
 
-A simple Python app (using Flask) which can easily be deployed to Docker Cloud
+A simple python app (using Flask) which can easily be deployed to Docker Cloud
 
 ### Running locally
 
