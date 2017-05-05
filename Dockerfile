@@ -4,7 +4,7 @@ FROM pchico83/mysql
 # Set the application directory
 WORKDIR /app
 
-# Make port 5000 available for links and/or publish
+# Make port 80 available for links and/or publish
 EXPOSE 80 
 
 # Environment Variables
